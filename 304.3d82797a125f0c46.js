@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmichukittimis=self.webpackChunkmichukittimis||[]).push([[304],{8304:(u,s,i)=>{i.r(s),i(5880)}}]);
